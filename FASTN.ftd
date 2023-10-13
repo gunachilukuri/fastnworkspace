@@ -1,3 +1,13 @@
 -- import: fastn
 
--- fastn.package: gunachilukuri.github.io/fastnworkspace
+-- fastn.package: hello
+
+-- fastn.dependency: fastn-community.github.io/bling
+
+
+-- fastn.dependency: fastn-community.github.io/doc-site
+
+
+
+-- fastn.auto-import: fastn-community.github.io/doc-site as ds
+

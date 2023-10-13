@@ -1,1 +1,14 @@
--- ftd.text: Hello World
+-- import: fastn-community.github.io/bling/quote
+
+
+-- ds.page: Express yourself
+site-name: Hey guys... Hello 
+
+-- quote.background-image: Guna Chilukuri
+quote-background: https://e0.pxfuel.com/wallpapers/491/601/desktop-wallpaper-ultra-original-and-background-it-ultra.jpg
+text-color: #FFF
+
+Make things happen 
+
+
+-- end: ds.page
